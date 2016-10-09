@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160428 "眠い \#2"  
+# Everyday One Motion - 20160428  
+
+"眠い \#2"  
 
 ![](20160428.gif)  
 
 JavaScript, WebGL, GPGPU Particle  
 
 [Everyday One Motion](http://motions.work/motion/210)  
-[Demo Page](http://fms-cat.github.io/eom_20160428)  
+[Demo Page](http://fms-cat-eom.github.io/20160428/dist)  
 
 ## 眠い
 
